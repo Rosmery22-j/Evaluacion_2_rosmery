@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(243, 194, 80);
+}
+
+.primario{
+    background-color: rgb(79, 168, 146);
+    width:100px ;
+    height: 40px;
+    border-radius: 18px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+
+}
+.primGlovo{
+    color: rgb(79, 168, 146);
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.secGlovo{
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.secundario{
+    background-color: rgb(255, 255, 255);
+    width:100px ;
+    height: 40px;
+    border-radius: 18px;
+    border: 0px;
+    font-weight: bold;
+}
